@@ -1,0 +1,71 @@
+/* This sheet is intended for the core structure, alignment and styles of the page. */
+
+/* These are imported styles. Could be moved in future. */
+@import url('./cover_styles.css');
+@import url('./question_styles.css');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  max-height: 100lvh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  margin: 1rem;
+  max-width: 1024px;
+  max-height: 100lvh;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  overflow-y: scroll;
+}
+
+/* Global <h1> style */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  min-height: 8rem;
+  text-align: center;
+  align-content: center;
+  margin: 0 1rem
+}
+
+/* Global <p> style */
+p {
+  text-align: justify;
+}
+
+/* Nav-List custom CSS */
+.nav-list {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  height: 3rem;
+  margin: 0 1rem;
+}
+
+.nav-list li {
+  background-color: #444;
+  color: #fff;
+  cursor: pointer;
+  min-width: 5rem;
+  min-height: 2rem;
+  border-radius: 1rem;
+  text-align: center;
+  align-content: center;
+}
+
+section {
+  margin: 0 1rem;
+}

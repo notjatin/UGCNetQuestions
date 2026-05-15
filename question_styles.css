@@ -1,0 +1,26 @@
+/* This stylesheet is specifically for the questions displayed. */
+
+.ques-list {
+}
+
+.ques-list-item {
+    
+    background-color: red;
+}
+
+.ques-desc {
+    min-height: 2rem;
+    align-content: center;
+}
+
+.ques-option-list {
+}
+.ques-option-list-item {
+    background-color: hsl(0, 0%, 68%);
+    min-height: 3rem;
+    align-content: center;
+}
+
+.ques-option-list-item:active {
+    background-color: black;
+}
