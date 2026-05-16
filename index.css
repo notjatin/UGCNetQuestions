@@ -23,6 +23,7 @@ main {
   max-height: 100lvh;
   display: flex;
   flex-direction: column;
+  /* justify-content: space-between; */
   gap: 1rem;
   overflow-y: scroll;
 }
@@ -56,16 +57,24 @@ p {
 }
 
 .nav-list li {
-  background-color: #444;
+  background-color: hsl(0, 0%, 40%);
   color: #fff;
   cursor: pointer;
   min-width: 5rem;
   min-height: 2rem;
-  border-radius: 1rem;
+  /* border-radius: 1rem; */
   text-align: center;
   align-content: center;
 }
 
+.nav-list li:hover {
+  background-color: hsl(0, 0%, 20%);
+}
+
 section {
   margin: 0 1rem;
+}
+
+footer {
+  margin-bottom: 1rem;
 }

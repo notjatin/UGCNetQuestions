@@ -1,11 +1,20 @@
 /* This stylesheet is specifically for the questions displayed. */
 
 .ques-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
 }
 
 .ques-list-item {
-    
-    background-color: red;
+    background-color: hsl(0, 0%, 80%);
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-between; */
+}
+
+.ques-list-item > * {
+    margin: 1rem;
 }
 
 .ques-desc {
@@ -15,12 +24,24 @@
 
 .ques-option-list {
 }
+
+.ques-option-list:first-child {
+    background-color: hsl(0, 0%, 40%);
+}
+
 .ques-option-list-item {
-    background-color: hsl(0, 0%, 68%);
+    /* background-color: hsl(0, 0%, 68%); */
     min-height: 3rem;
     align-content: center;
 }
 
-.ques-option-list-item:active {
-    background-color: black;
+.ques-option-list-item>span:first-child {
+    margin-left: 1rem;
+    /* background-color: red; */
+}
+
+.ques-option-list-item:hover {
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 80%);
+    cursor: pointer;
 }
