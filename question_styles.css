@@ -42,6 +42,6 @@
 
 .ques-option-list-item:hover {
     background-color: hsl(0, 0%, 20%);
-    color: hsl(0, 0%, 80%);
+    color: hsl(0, 0%, 100%);
     cursor: pointer;
 }

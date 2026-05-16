@@ -1,0 +1,146 @@
+[
+    {
+        "ques": {
+            "ques-head": "Question 1",
+            "ques-desc": "What is the answer?"
+        },
+        "options": [
+            {
+                "option-head": "(a)",
+                "option-desc": "Option 1"
+            },
+            {
+                "option-head": "(b)",
+                "option-desc": "Option 2"
+            },
+            {
+                "option-head": "(c)",
+                "option-desc": "Option 3"
+            },
+            {
+                "option-head": "(d)",
+                "option-desc": "Option 4"
+            }
+        ]
+    },
+    {
+        "ques": {
+            "ques-head": "Question 2",
+            "ques-desc": "What is the answer?"
+        },
+        "options": [
+            {
+                "option-head": "(a)",
+                "option-desc": "Option 1"
+            },
+            {
+                "option-head": "(b)",
+                "option-desc": "Option 2"
+            },
+            {
+                "option-head": "(c)",
+                "option-desc": "Option 3"
+            },
+            {
+                "option-head": "(d)",
+                "option-desc": "Option 4"
+            }
+        ]
+    },
+    {
+        "ques": {
+            "ques-head": "Question 3",
+            "ques-desc": "What is the answer?"
+        },
+        "options": [
+            {
+                "option-head": "(a)",
+                "option-desc": "Option 1"
+            },
+            {
+                "option-head": "(b)",
+                "option-desc": "Option 2"
+            },
+            {
+                "option-head": "(c)",
+                "option-desc": "Option 3"
+            },
+            {
+                "option-head": "(d)",
+                "option-desc": "Option 4"
+            }
+        ]
+    },
+    {
+        "ques": {
+            "ques-head": "Question 4",
+            "ques-desc": "What is the answer?"
+        },
+        "options": [
+            {
+                "option-head": "(a)",
+                "option-desc": "Option 1"
+            },
+            {
+                "option-head": "(b)",
+                "option-desc": "Option 2"
+            },
+            {
+                "option-head": "(c)",
+                "option-desc": "Option 3"
+            },
+            {
+                "option-head": "(d)",
+                "option-desc": "Option 4"
+            }
+        ]
+    },
+    {
+        "ques": {
+            "ques-head": "Question 5",
+            "ques-desc": "What is the answer?"
+        },
+        "options": [
+            {
+                "option-head": "(a)",
+                "option-desc": "Option 1"
+            },
+            {
+                "option-head": "(b)",
+                "option-desc": "Option 2"
+            },
+            {
+                "option-head": "(c)",
+                "option-desc": "Option 3"
+            },
+            {
+                "option-head": "(d)",
+                "option-desc": "Option 4"
+            }
+        ]
+    },
+    {
+        "ques": {
+            "ques-head": "Question 6",
+            "ques-desc": "What is the answer?"
+        },
+        "options": [
+            {
+                "option-head": "(a)",
+                "option-desc": "Option 1"
+            },
+            {
+                "option-head": "(b)",
+                "option-desc": "Option 2"
+            },
+            {
+                "option-head": "(c)",
+                "option-desc": "Option 3"
+            },
+            {
+                "option-head": "(d)",
+                "option-desc": "Option 4"
+            }
+        ]
+    }
+]
