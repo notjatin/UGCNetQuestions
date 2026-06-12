@@ -1,5 +1,4 @@
-// This file holds the binding of quess 
-import quesData from "./questions.json" with { type: 'json' };
+import quesData from "../data/questions.json" with { type: 'json' };
 
 /**
  * Generates HTML structure for a list of quess
